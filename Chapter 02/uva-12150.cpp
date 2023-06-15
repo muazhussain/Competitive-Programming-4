@@ -51,7 +51,7 @@ int main() {
 
 
 /*
-	Idea: When the relative position is negative, it implies the car was that much ahead in the starting grid. When the relative position is positive, it implies the car was that much behind the starting grid. Otherwise, the car was in its current position. If the calculated position already contains a car, then it would be impossible to construct the starting grid.
+	Idea: When the relative position is negative, it implies the car was that much ahead in the starting grid. When the relative position is positive, it implies the car was that much behind the starting 	grid. Otherwise, the car was in its current position. If the calculated position already contains a car, then it would be impossible to construct the starting grid.
 
 	** The relative position can be some absurd number; in that case, it will be impossible to construct the starting grid.
 */
