@@ -1,0 +1,10 @@
+template
+inp
+*.h
+.*
+Chapter 02/uva-12356
+*
+!*.*
+!*/
+.DS_Store
+Chapter 02/debug.h
